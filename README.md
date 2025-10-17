@@ -36,7 +36,7 @@ This project implements a modular ETL connector that extracts data from the publ
 - `/syntaxes`
 - `/tags`
 
-Notes:
+**Notes:**
 - The API is public and does not require authentication (no API key).
 - For `/lists`, the connector optionally fetches `/lists/{id}` to get full details; this endpoint can be slow or heavy due to dataset size — the script includes timeouts and retries.
 
