@@ -177,5 +177,21 @@ Mongo update for all endpoints:
 ![Example FIlterLists ETL Output](Outputs/mongo_storage_all_endpoints.png)
 
 ---
-Mongo update for one endpoint (/languages):
-![Example FIlterLists ETL Output](Outputs/mongo_output_for_one_endpoint.png)
+Mongo update for /languages:
+![Example FIlterLists ETL Output](Outputs/mongo_languages.png)
+---
+Mongo update for /licenses:
+![Example FIlterLists ETL Output](Outputs/mongo_licenses.png)
+---
+Mongo update for /maintainers:
+![Example FIlterLists ETL Output](Outputs/mongo_maintainers.png)
+---
+Mongo update for /software:
+![Example FIlterLists ETL Output](Outputs/mongo_software.png)
+---
+Mongo update for /syntaxes:
+![Example FIlterLists ETL Output](Outputs/mongo_syntaxes.png)
+---
+Mongo update for /tags:
+![Example FIlterLists ETL Output](Outputs/mongo_tags.png)
+---
